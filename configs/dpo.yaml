@@ -1,0 +1,12 @@
+mode: dpo
+model_name: checkpoints/sft     # start DPO from the SFT checkpoint
+train_file: data/sample_dpo.jsonl
+output_dir: checkpoints/dpo
+max_len: 1024
+batch_size: 2
+grad_accum: 4
+lr: 5.0e-7
+warmup_steps: 10
+epochs: 1
+beta: 0.1
+log_every: 1

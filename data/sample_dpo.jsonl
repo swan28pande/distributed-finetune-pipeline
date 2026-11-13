@@ -1,0 +1,8 @@
+{"prompt": "Question: What is the capital of France?\nAnswer:", "chosen": " Paris", "rejected": " Lyon"}
+{"prompt": "Question: What is 12 * 12?\nAnswer:", "chosen": " 144", "rejected": " 124"}
+{"prompt": "Question: Who wrote 'Pride and Prejudice'?\nAnswer:", "chosen": " Jane Austen", "rejected": " Charlotte Bronte"}
+{"prompt": "Question: What gas do plants absorb from the air?\nAnswer:", "chosen": " Carbon dioxide", "rejected": " Oxygen"}
+{"prompt": "Question: How many continents are there?\nAnswer:", "chosen": " Seven", "rejected": " Five"}
+{"prompt": "Question: What is the boiling point of water in Celsius?\nAnswer:", "chosen": " 100 degrees", "rejected": " 90 degrees"}
+{"prompt": "Question: What is the largest planet in the solar system?\nAnswer:", "chosen": " Jupiter", "rejected": " Saturn"}
+{"prompt": "Question: What language is primarily spoken in Brazil?\nAnswer:", "chosen": " Portuguese", "rejected": " Spanish"}

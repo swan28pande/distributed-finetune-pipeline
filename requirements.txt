@@ -1,0 +1,6 @@
+torch>=2.4
+transformers>=4.45
+datasets>=3.0
+pyyaml>=6.0
+wandb>=0.18
+vllm>=0.6

@@ -1,0 +1,11 @@
+mode: sft
+model_name: Qwen/Qwen2.5-0.5B
+train_file: data/sample_sft.jsonl
+output_dir: checkpoints/sft
+max_len: 1024
+batch_size: 4
+grad_accum: 2
+lr: 2.0e-5
+warmup_steps: 10
+epochs: 1
+log_every: 1
